@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #b2b2b2;
+}
+.tanchu {
+  height: 100px;
+  width: 300px;
+  background-color: #fff;
+  margin: 0 auto;
+  border-radius: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -50px;
+}
+.tanchu .p1 {
+  padding: 20px 60px;
+  border-bottom: 1px solid #e9e9ec;
+  font-size: 14px;
+  font-family: Microsoft Yahei;
+  text-align: center;
+}
+.tanchu .p2 {
+  text-align: center;
+  padding: 10px 0px;
+  color: #ea5404;
+  font-weight: bold;
+}

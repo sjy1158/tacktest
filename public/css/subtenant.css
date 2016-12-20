@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #efeff4;
+}
+.top {
+  background-color: #fff;
+}
+.denglu {
+  color: #ed7139;
+  text-align: center;
+  padding: 15px 0px;
+  font-size: 20px;
+  font-weight: bold;
+  background: url("../img/nav_back_icon@2x.png") no-repeat left 10px center;
+  background-size: 14px 20px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.p1 {
+  padding: 10px 0px 10px 15px;
+  font-size: 14px;
+  color: #bfbfc0;
+  font-family: Microsoft Yahei;
+}
+.min {
+  height: 270px;
+  background-color: #fff;
+  padding: 0px 60px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.min .min-touxiang {
+  height: 250px;
+}
+.min .touxiang {
+  height: 70px;
+  width: 70px;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 10px;
+  margin: 0 auto;
+}
+.min .touxiang .touxiang1 {
+  height: 70px;
+  width: 70px;
+  background-color: #878787;
+  border-radius: 50%;
+  line-height: 70px;
+  text-align: center;
+  font-size: 10px;
+  color: #fff;
+}
+.min input {
+  margin-top: 10px;
+  height: 30px;
+  width: 100%;
+  padding-left: 10px;
+  background-color: #efeff4;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+.card {
+  width: 120px;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+  background-color: #878787;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 10px;
+  color: #fff;
+}
+.bottom {
+  height: 80px;
+  background-color: #fff;
+  padding: 10px 0px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.bottom .credent {
+  width: 120px;
+  height: 80px;
+  background-color: #878787;
+  margin: 0 auto;
+  border-radius: 5px;
+  font-size: 10px;
+  color: #fff;
+  text-align: center;
+  line-height: 80px;
+}
+.finish {
+  height: 50px;
+  margin-top: 40px;
+  padding: 0px 10px;
+}
+.finish1 {
+  height: 50px;
+  border-radius: 5px;
+  background-color: #ea5404;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+}
